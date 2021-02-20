@@ -5,7 +5,7 @@
    Meanwhile, please kindly send a request to rickyyamamotos@gmail.com with:<BR>
    <UL>
       <LI> "your GitHub account's ID".<BR>
-   <UL>
+   </UL>
    <BR>
    After receiving your ID, all the documents in this GitHub account will be available that include:<BR>
    <UL>

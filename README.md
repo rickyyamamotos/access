@@ -1,5 +1,4 @@
-<HTML>
-   <p style="color:red">
+#<HTML>
    <B>Apologizes for not providing you with access automatically.</B><BR>
    This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.<BR>
    <BR>
@@ -19,5 +18,4 @@
    Thank you for your undestanding,<BR>
    <BR>
    Rick Yamamoto<BR>
-   </p>
-</HTML>
+#</HTML>

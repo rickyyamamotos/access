@@ -9,4 +9,5 @@
 #   - “Automation scripts"
 #   - "Procedures"
 #   - "Notes of courses taken"
-$   - "Sample of my "Research Papers" in Cybersecurity.
+#   - "Sample of my "Research Papers" in Cybersecurity"
+$

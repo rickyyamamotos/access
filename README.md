@@ -1,5 +1,5 @@
 <HTML>
-   <FONT SIZE="3" COLOR="RED">
+   <font color="red" face="Verdana, Geneva, sans-serif" size="+1">
    <B>Apologizes for not providing you with access automatically.</B><BR>
    This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.<BR>
    <BR>

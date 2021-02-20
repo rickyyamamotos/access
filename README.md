@@ -1,4 +1,4 @@
-# Apologizes for not providing you with access automatically.
+# <B>Apologizes for not providing you with access automatically.</B>
 # This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.
 #
 # Meanwhile, please kindly send a request to rickyyamamotos@gmail.com with:

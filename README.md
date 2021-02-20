@@ -1,5 +1,6 @@
 <HTML>
    <H1><B>Apologizes for not providing you with access automatically.</B><BR></H1>
+   <H2>
    This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.<BR>
    <BR>
    Meanwhile, please kindly send a request to rickyyamamotos@gmail.com with:<BR>
@@ -20,4 +21,5 @@
    Thank you for your undestanding,<BR>
    <BR>
    Rick Yamamoto<BR>
+   </H2>
 </HTML>

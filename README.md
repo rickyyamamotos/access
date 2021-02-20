@@ -1,5 +1,5 @@
 <HTML>
-   <B>Apologizes for not providing you with access automatically.</B><BR>
+   <L1><B>Apologizes for not providing you with access automatically.</B><BR></L1>
    This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.<BR>
    <BR>
    Meanwhile, please kindly send a request to rickyyamamotos@gmail.com with:<BR>
@@ -7,8 +7,8 @@
       <LI> "your GitHub account's ID".<BR>
    </UL>
    <BR>
-         <BR>
-               <BR>
+   <BR>
+   <BR>
    After receiving your ID, all the documents in this GitHub account will be available that include:<BR>
    <UL>
       <LI> "Automation scripts" developed and implemented during the course of my work.<BR>

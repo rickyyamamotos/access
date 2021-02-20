@@ -5,7 +5,7 @@
 #    - "your GitHub account's ID"
 #    - "Reasons to request access"
 #
-# To provide you with access to all the documents in this GitHub account which include:
+# To provide you with access to all the documents in this GitHub account that include:
 #   - “Automation scripts"
 #   - "Procedures"
 #   - "Notes of courses taken"

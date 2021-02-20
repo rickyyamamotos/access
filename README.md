@@ -1,5 +1,5 @@
 <HTML>
-   <H1><B>Apologizes for not providing you with access automatically.</B><BR></H1>
+   <H1><U><B>Apologizes for not providing you with access automatically.</B><BR></U></H1>
    <H2>
    This is a temporary measure that will be removed when the process of sanitizing, # and removing sensitive information from all documents is completed.<BR>
    <BR>

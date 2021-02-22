@@ -1,25 +1,6 @@
-<HTML>
-   <H1><U><B>Apologizes for not providing you with access automatically.</B><BR></U></H1>
-   <H2>
-   This is a temporary measure that will be removed when the process of sanitizing and removing any sensitive information from all documents is completed.<BR>
-   <BR>
-   Meanwhile, please kindly send an access request to rickyyamamotos@gmail.com with:<BR>
-   <UL>
-      <LI> "your GitHub account's ID".<BR>
-   </UL>
-   <BR>
-   <BR>
-   <BR>
-   After receiving your ID, all the documents in this GitHub account will be available including:<BR>
-   <UL>
-      <LI> "Automation scripts" developed and implemented during the course of my work.<BR>
-      <LI> "Procedures" developed and implemented during the course of my work.<BR>
-      <LI> "Notes of courses taken" in Cybersecurity, Information Assurance and Technology.<BR>
-      <LI> "My "Research Papers" in Cybersecurity".<BR>
-   </UL>
-   <BR>
-   Thank you for your undestanding,<BR>
-   <BR>
-   Rick Yamamoto<BR>
-   </H2>
-</HTML>
+The "Automatic Scripting" can be found in the repository at https://github.com/rickyyamamotos/automatic-scripting
+<BR>
+<BR>
+The "Procedures" can be found in the repository at https://github.com/rickyyamamotos/Procedures
+
+

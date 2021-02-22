@@ -1,9 +1,9 @@
 <HTML>
    <H1><U><B>Apologizes for not providing you with access automatically.</B><BR></U></H1>
    <H2>
-   This is a temporary measure that will be removed when the process of sanitizing, and removing sensitive information from all documents is completed.<BR>
+   This is a temporary measure that will be removed when the process of sanitizing and removing any sensitive information from all documents is completed.<BR>
    <BR>
-   Meanwhile, please kindly send a request to rickyyamamotos@gmail.com with:<BR>
+   Meanwhile, please kindly send an access request to rickyyamamotos@gmail.com with:<BR>
    <UL>
       <LI> "your GitHub account's ID".<BR>
    </UL>
